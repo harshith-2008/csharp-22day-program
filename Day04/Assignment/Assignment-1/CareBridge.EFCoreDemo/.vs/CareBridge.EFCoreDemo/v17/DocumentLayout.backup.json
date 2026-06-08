@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Harshith\\CareBridge.EFCoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{378C8DB8-2C57-4AD0-B02F-E7926D7B3304}|CareBridge.API\\CareBridge.API.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378C8DB8-2C57-4AD0-B02F-E7926D7B3304}|CareBridge.API\\CareBridge.API.csproj|solutionrelative:carebridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.efcoredemo\\carebridge.efcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\carebridge.efcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\generated\\carebridgescaffoldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\generated\\carebridgescaffoldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.efcoredemo\\data\\carebridgecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\data\\carebridgecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\harshith\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFA33E-074D-4467-8400-5B47721AD596}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.API\\Program.cs",
+              "RelativeDocumentMoniker": "CareBridge.API\\Program.cs",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.API\\Program.cs",
+              "RelativeToolTip": "CareBridge.API\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:28:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CareBridgeContext.cs",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Data\\CareBridgeContext.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Data\\CareBridgeContext.cs",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Data\\CareBridgeContext.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Data\\CareBridgeContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:40:28.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CareBridge.EFCoreDemo.csproj",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T06:39:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Program.cs",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Program.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Program.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:17:19.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CareBridgeScaffoldContext.cs",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:55:25.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Department.cs",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Department.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:27:36.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Encounter.cs",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Encounter.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Encounter.cs",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Encounter.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Encounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:28:12.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Provider.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Provider.cs",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Provider.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:27:06.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Patient.cs",
+              "ToolTip": "C:\\Harshith\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Patient.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:25:11.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
